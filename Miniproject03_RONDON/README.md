@@ -72,3 +72,14 @@ $ cat tests/out_saltpepper.txt
 
 
 ---
+
+## Copilot Usage
+
+- AI tools were used to assist with:
+  - Understanding file parsing
+  - Structuring parts of the filtering logic
+- I personally implemented and verified:
+  - Core algorithm logic
+  - Debugging and testing
+- Issue encountered:
+  - Initial logic had boundary errors, which were corrected through testing.
